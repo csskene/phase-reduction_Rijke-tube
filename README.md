@@ -26,10 +26,10 @@ The notebook _1-NeutralCurve.ipynb_ setups the linearised equations and solves a
 ## 2-Phase Sensitivity
 The notebook _2-PhaseSensitivity.ipynb_ solves the non-linear equations to find the limit cycle. Linearising about this periodic solution, the adjoint equations are then solved in order to find the phase sensitivity function. The correct normalisation is then found via the bilinear form.
 
-## 3-Phase coupling function
+## 3-Phase Coupling Function
 The notebook _3-PhaseCouplingFunction.ipynb_ loads the saved phase sensitivity solution from notebook _2-PhaseSensitivity.ipynb_ and finds the phase coupling function for the global forcing considered in the paper. Using this phase coupling function the Arnold tongues for m:n phase locking are found.
 
-## 4-Parametric sensitivity
+## 4-Parametric Sensitivity
 The notebook _4-ParametricSensitivity.ipynb_ computes the synchronisability as the location of the pressure actuation in the Rijke tube is moved. The procedure used in notebooks 2 and 3 is automated in order to carry out this procedure for a range of parameters.
 
 # Acknowledgements
