@@ -2,7 +2,7 @@
 
 # Phase reduction analysis of periodic thermoacoustic oscillations in a Rijke tube (companion code)
 
-This repository contains companion code for the article "Phase reduction analysis of periodic thermoacoustic oscillations in a Rijke tube" by C. S. Skene, K. Taira (under review, 2021).
+This repository contains companion code for the article ["Phase reduction analysis of periodic thermoacoustic oscillations in a Rijke tube"](https://www.doi.org/10.1017/jfm.2021.1093) by C. S. Skene, K. Taira (JFM, 2022).
 
 The code is written in Julia and utilises the following libraries
 
