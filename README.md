@@ -34,5 +34,18 @@ The notebook _3-PhaseCouplingFunction.ipynb_ loads the saved phase sensitivity s
 ## 4-Parametric Sensitivity
 The notebook _4-ParametricSensitivity.ipynb_ computes the synchronisability as the location of the pressure actuation in the Rijke tube is moved. The procedure used in notebooks 2 and 3 is automated in order to carry out this procedure for a range of parameters.
 
+# Citation
+If you find this repository useful for your research please cite the paper
+```
+@article{skene_taira_2022,
+title={Phase-reduction analysis of periodic thermoacoustic oscillations in a Rijke tube},
+volume={933},
+DOI={10.1017/jfm.2021.1093},
+journal={Journal of Fluid Mechanics},
+publisher={Cambridge University Press},
+author={Skene, Calum S. and Taira, Kunihiko},
+year={2022},
+pages={A35}}
+```
 # Acknowledgements
 This work was supported by the US Air Force Office of Scientific Research (FA9550-16-1-0650 and FA9550-21-1-0178, monitored by Douglas Smith and Gregg Abate).
